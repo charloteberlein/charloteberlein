@@ -10,9 +10,9 @@ _I am currently reading: The Myth of Artificial Intelligence, Erik J. Larson_
 ❥ [Take a look at my portfolio!](https://charloteberlein.github.io/index.html)
 
 <p align="left">
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog1?raw=true" height="100"/>
+  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog1.jpeg?raw=true" height="100"/>
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/mandelbrot_fractal_19d.png?raw=true" height="100"/>
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog5a?raw=true" height="100">
+  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog5a.jpeg?raw=true" height="100">
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/mandelbrot_fractal7.png?raw=true" height="100"/>
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
 </p>
