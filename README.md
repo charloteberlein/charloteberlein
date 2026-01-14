@@ -1,5 +1,5 @@
 ## Hi! 👋🏻 I'm Charlot Eberlein
-### 🌟 Aspiring Data Science Researcher
+### 🌟 Aspiring Data Science / Machine Learning Researcher
 
 #### 💭 About Me (she/her)
 - I'm currently studying Computer Science at Loughborough University.  
