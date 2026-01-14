@@ -6,7 +6,7 @@
 - I'm most interested in data science and computer vision. I've done a couple projects using Python ML libraries, and am learning C++ at the moment.  
 - I play the violin and piano! 🎶  
 
-_I am currently reading: The Myth of Artificial Intelligence, Erik J. Larson_  
+_I am currently reading: The Code Book, Simon Singh_  
 ❥ [Take a look at my portfolio!](https://charloteberlein.github.io/index.html)
 
 <p align="left">
