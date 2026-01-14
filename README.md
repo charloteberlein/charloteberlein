@@ -17,13 +17,6 @@ _I am currently reading: The Code Book, Simon Singh_
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
 </p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charloteberlein&layout=compact&langs_count=8&card_width=320&theme=synthwave&show_icons=true&exclude_repo=charloteberlein.github.io"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=charloteberlein&theme=synthwave&rank_icon=github&show_icons=true&hide=prs,issues"/>
-</a>
-
 #### 🩵 Connect with Me
 <p align="left"><a href="https://github.com/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="charloteberlein" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charloteberlein" height="30" width="40" /></a>
