@@ -41,6 +41,10 @@ _I am currently reading: The Code Book, Simon Singh_
     <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
 </p>
 
+#### 📚 Book Recommendations
+- Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_
+- Erik J. Larson, _The Myth of Artificial Intelligence_
+
 <!--
 **charloteberlein/charloteberlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
