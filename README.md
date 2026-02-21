@@ -16,7 +16,7 @@ _I am currently reading: The Code Book, Simon Singh_
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
 </p>
 
-[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://github.com/charloteberlein)
+[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)
 
 #### 🩵 Connect with Me
