@@ -12,7 +12,7 @@
 
 _I am currently reading: The Code Book, Simon Singh_
 
-#### <img src="https://i.pinimg.com/originals/d7/a4/6a/d7a46a0f26c03d2eb10c620922eca84c.gif" width="25"/> Connect with Me
+#### ♡ Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2c2a72?style=for-the-badge&logo=linkedin&logoColor=b5d2ff)](https://www.linkedin.com/in/charloteberlein/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-2c2a72?style=for-the-badge&logo=leetcode&logoColor=b5d2ff)](https://leetcode.com/u/charloteberlein/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-2c2a72?style=for-the-badge&logo=kaggle&logoColor=b5d2ff)](https://www.kaggle.com/charloteberlein)
