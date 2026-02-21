@@ -6,8 +6,7 @@
 - I'm most interested in data science and computer vision. I've done a couple projects using Python ML libraries, and am learning C++ at the moment.  
 - I play the violin and piano! 🎶  
 
-_I am currently reading: The Code Book, Simon Singh_  
-❥ [Take a look at my portfolio!](https://charloteberlein.github.io/index.html)
+_I am currently reading: The Code Book, Simon Singh_
 
 <p align="left">
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog1.jpeg?raw=true" height="100"/>
@@ -16,6 +15,9 @@ _I am currently reading: The Code Book, Simon Singh_
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/mandelbrot_fractal7.png?raw=true" height="100"/>
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
 </p>
+
+[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://github.com/charloteberlein)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)
 
 #### 🩵 Connect with Me
 <p align="left"><a href="https://github.com/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="charloteberlein" height="30" width="40"/></a>
