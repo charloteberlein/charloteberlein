@@ -1,49 +1,23 @@
-## Hi! 👋🏻 I'm Charlot Eberlein
-### 🌟 Aspiring Data Science / Machine Learning Researcher
+## Hi! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fwaving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif&f=1&nofb=1&ipt=025e55dbb882f2133ad4008323306f5a70c8127695c2af982bcd2667fcc12d64" width="25" /> I'm Charlot Eberlein
+
+### 🌟 Aspiring Machine Learning Researcher
 
 [![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)](https://github.com/charloteberlein)
 
-#### 💭 About Me (she/her)
-- I'm currently studying Computer Science at Loughborough University.  
-- I'm most interested in data science and computer vision. I've done a couple projects using Python ML libraries, and am learning C++ at the moment.  
-- I play the violin and piano! 🎶  
+#### 💭 About Me
+- I'm an undergraduate Computer Science student at Loughborough University.
+- I'm currently interested computer vision, but always looking for a new challenge.
+- Hobbies: violin & piano 🎶
 
 _I am currently reading: The Code Book, Simon Singh_
 
-<p align="left">
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog1.jpeg?raw=true" height="100"/>
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/electro_19_highres0.png?raw=true" height="100"/>
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog5a.jpeg?raw=true" height="100">
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/mandelbrot_fractal7.png?raw=true" height="100"/>
-  <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
-</p>
-
-#### 🩵 Connect with Me
+#### <img src="https://i.pinimg.com/originals/d7/a4/6a/d7a46a0f26c03d2eb10c620922eca84c.gif" width="25"/> Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2c2a72?style=for-the-badge&logo=linkedin&logoColor=b5d2ff)](https://www.linkedin.com/in/charloteberlein/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-2c2a72?style=for-the-badge&logo=leetcode&logoColor=b5d2ff)](https://leetcode.com/u/charloteberlein/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-2c2a72?style=for-the-badge&logo=kaggle&logoColor=b5d2ff)](https://www.kaggle.com/charloteberlein)
 
-#### 🛠️ Languages and Tools
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
-    <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
-</p>
-
-#### 📚 Book Recommendations
+#### 📖 Book Recommendations
 - Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_
 - Erik J. Larson, _The Myth of Artificial Intelligence_
 
