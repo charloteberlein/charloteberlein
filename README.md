@@ -2,7 +2,7 @@
 ### 🌟 Aspiring Data Science / Machine Learning Researcher
 
 [![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)](https://github.com/charloteberlein)
 
 #### 💭 About Me (she/her)
 - I'm currently studying Computer Science at Loughborough University.  
