@@ -1,6 +1,9 @@
 ## Hi! 👋🏻 I'm Charlot Eberlein
 ### 🌟 Aspiring Data Science / Machine Learning Researcher
 
+[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)
+
 #### 💭 About Me (she/her)
 - I'm currently studying Computer Science at Loughborough University.  
 - I'm most interested in data science and computer vision. I've done a couple projects using Python ML libraries, and am learning C++ at the moment.  
@@ -16,13 +19,10 @@ _I am currently reading: The Code Book, Simon Singh_
   <img src="https://github.com/charloteberlein/charloteberlein.github.io/blob/main/assets/img/frog6b.jpeg?raw=true" height="100"/>
 </p>
 
-[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)
-
 #### 🩵 Connect with Me
-<p align="left"><a href="https://github.com/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="charloteberlein" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charloteberlein" height="30" width="40" /></a>
-<a href="https://leetcode.com/charloteberlein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charloteberlein" height="30" width="40" /></a></p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c2a72?style=for-the-badge&logo=linkedin&logoColor=b5d2ff)](https://www.linkedin.com/in/charloteberlein/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2c2a72?style=for-the-badge&logo=leetcode&logoColor=b5d2ff)](https://leetcode.com/u/charloteberlein/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-2c2a72?style=for-the-badge&logo=kaggle&logoColor=b5d2ff)](https://www.kaggle.com/charloteberlein)
 
 #### 🛠️ Languages and Tools
 <p align="left">
