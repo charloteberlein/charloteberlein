@@ -1,5 +1,4 @@
-## Hi! <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fwaving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif&f=1&nofb=1&ipt=025e55dbb882f2133ad4008323306f5a70c8127695c2af982bcd2667fcc12d64" width="25" /> I'm Charlot Eberlein
-
+## Hi! <img src="https://media.tenor.com/1MlcSkCqiJEAAAAj/mariposa.gif" width="25" /> I'm Charlot Eberlein
 ### 🌟 Aspiring Machine Learning Researcher
 
 [![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
