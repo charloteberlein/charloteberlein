@@ -17,8 +17,9 @@ _I am currently reading: The Code Book, Simon Singh_
 [![Kaggle](https://img.shields.io/badge/Kaggle-2c2a72?style=for-the-badge&logo=kaggle&logoColor=b5d2ff)](https://www.kaggle.com/charloteberlein)
 
 #### 📖 Book Recommendations
-- Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_
-- Erik J. Larson, _The Myth of Artificial Intelligence_
+<a href="https://www.goodreads.com/book/show/60254923-the-myth-of-artificial-intelligence"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1652693671i/60254923.jpg" height="120"/><a/>
+<a href="https://www.goodreads.com/book/show/50374022-artificial-intelligence"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1608402915i/50374022.jpg" height="120"/><a/>
+<a href="https://www.goodreads.com/book/show/25835759-things-to-make-and-do-in-the-fourth-dimension"><img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1435824790i/25835759.jpg" height="120"/><a/>
 
 <!--
 **charloteberlein/charloteberlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
