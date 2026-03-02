@@ -1,7 +1,7 @@
 ## Hi! <img src="https://media.tenor.com/1MlcSkCqiJEAAAAj/mariposa.gif" width="25" /> I'm Charlot Eberlein
 ### 🌟 Aspiring Machine Learning Researcher
 
-[![Badge](https://img.shields.io/badge/Visit_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
+[![Badge](https://img.shields.io/badge/View_Portfolio-b5d2ff?style=for-the-badge)](https://charloteberlein.github.io)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%232c2a72&countColor=%23b5d2ff)](https://github.com/charloteberlein)
 
 #### 💭 About Me
