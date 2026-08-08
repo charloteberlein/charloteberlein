@@ -1,4 +1,5 @@
-# Charlot Eberlein
+Charlot Eberlein
+-
 [![Badge](https://img.shields.io/badge/View_Portfolio-b6baff?style=for-the-badge)](https://charloteberlein.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-12143c?style=for-the-badge&logo=linkedin&logoColor=b6baff)](https://www.linkedin.com/in/charloteberlein/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-12143c?style=for-the-badge&logo=leetcode&logoColor=b6baff)](https://leetcode.com/u/charloteberlein/)
@@ -6,7 +7,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=charloteberlein&label=Profile%20Viewers&labelColor=%23ffffff&countColor=%23b6baff)](https://github.com/charloteberlein)
 
 ### About Me
-I'm studying a Master's in Computer Science at Loughborough University, looking to specialise in Machine Learning.
+I'm studying a Master's in Computer Science at [Loughborough University](https://www.lboro.ac.uk), looking to specialise in Machine Learning. Currently, I am working as a Machine Learning Engineer Intern at the deep tech startup [UnlikelyAI](https://www.unlikely.ai).
 
 #### Book Recommendations
 I am currently reading: _The Code Book, Simon Singh_
